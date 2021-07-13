@@ -1,0 +1,8 @@
+@media screen and (min-width: 420px) {
+
+    .nested {
+        background-color: black;
+        color: #fff;
+    }
+
+}
